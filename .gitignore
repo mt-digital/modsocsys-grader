@@ -1,0 +1,15 @@
+.dub
+docs.json
+__dummy.html
+docs/
+modsocsys-grader.so
+modsocsys-grader.dylib
+modsocsys-grader.dll
+modsocsys-grader.a
+modsocsys-grader.lib
+modsocsys-grader-test-*
+*.exe
+*.o
+*.obj
+*.lst
+modsocsys-grader

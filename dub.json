@@ -1,0 +1,9 @@
+{
+	"description": "Grading program for modeling social systems. Prototype for a broader application to grade programming assignments that integrates with the Canvas LMS.",
+	"license": "proprietary",
+	"authors": [
+		"Matthew A. Turner"
+	],
+	"copyright": "Copyright © 2019, Matthew A. Turner",
+	"name": "modsocsys-grader"
+}
