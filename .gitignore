@@ -13,3 +13,5 @@ modsocsys-grader-test-*
 *.obj
 *.lst
 modsocsys-grader
+homework
+dub.selections.json

@@ -5,5 +5,8 @@
 		"Matthew A. Turner"
 	],
 	"copyright": "Copyright © 2019, Matthew A. Turner",
-	"name": "modsocsys-grader"
+	"name": "modsocsys-grader",
+        "dependencies": {
+            "dli": "~>0.1.0"
+        }
 }
