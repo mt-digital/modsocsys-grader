@@ -15,3 +15,5 @@ modsocsys-grader-test-*
 modsocsys-grader
 homework
 dub.selections.json
+canvas_token.txt
+source/data
